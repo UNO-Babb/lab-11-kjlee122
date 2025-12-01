@@ -1,0 +1,6 @@
+I adjusted:
+Item amount, 1-100
+Shopping time, dividing total items by integers 1-4
+The other data I chose to process was total shoppers
+What I learned from this simulation is sometimes more is not better and only increases idle time
+I chose to process total shoppers in order to see if there was a potential ideal ratio between shoppers and checkers. 
